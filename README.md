@@ -1,0 +1,2 @@
+# SpamtoolsApi
+SpamTools API documentation
